@@ -7,7 +7,7 @@ Demais diretrizes constam no Moodle.
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
+**!! *Exemplo de título correto: 2023.2_G1_ProjetoPandora*. !!** 
  
  (Apague esses comentários)
 
@@ -31,10 +31,11 @@ Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
 
-## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
+## <<FOCO: DSW(Padrões de Projeto)>>
+Esse módulo/tópico será avaliado via Prova.
+Portanto, sem necessidade de Screenshots.
 
-## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+## Screenshots Terceira Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 
 ## Descritivo dos Principais Aspectos Técnicos 
